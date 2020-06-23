@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2A1C6093-6D67-404A-993B-A5C28228105A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SOLIDPrinciples/Program.cs">
+    <Files>
+      <File FileName="SOLIDPrinciples/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLIDPrinciples" expanded="True">
+            <Node name="Liskov" expanded="True">
+              <Node name="LiskovDesignPrincipalEx0" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Liskov.LiskovDesignPrincipalEx0 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
