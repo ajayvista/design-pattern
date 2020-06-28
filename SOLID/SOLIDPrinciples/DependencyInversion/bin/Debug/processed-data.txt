@@ -1,0 +1,6 @@
+John,Doe,Riverside,120 jefferson st.,
+Jack,McGinnis,Phila,220 hobo Av.,
+"John ""Da Man""",Repici,Riverside,120 Jefferson St.,
+Stephen,Tyler,SomeTown,"7452 Terrace ""At the Plaza"" road",
+Jhs,Blankman,SomeTown,31,
+"Joan ""the bone"", Anne","9th,Jet,

@@ -1,25 +1,41 @@
-﻿<Properties StartupConfiguration="{2A1C6093-6D67-404A-993B-A5C28228105A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SOLIDPrinciples/Program.cs">
+﻿<Properties StartupConfiguration="{2A0CDC84-2D1C-4ED4-9DFD-4BFF3682A81D}|Default">
+  <MonoDevelop.Ide.ItemProperties.LiskovDesignPrincipleEx0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="SOLIDPrinciples/Program.cs" Line="1" Column="1" />
+      <File FileName="DependencyInversion/Example1/PrincipleViolation.cs" Line="19" Column="40" />
+      <File FileName="DependencyInversion/Example1/WithPrinciple.cs" Line="24" Column="10" />
+      <File FileName="DependencyInversion/Example2/WithPrinciple.cs" Line="12" Column="3" />
+      <File FileName="DependencyInversion/Program.cs" Line="35" Column="1" />
+      <File FileName="InterfaceSegregation/Example1/WithPrinciple.cs" Line="20" Column="9" />
+      <File FileName="InterfaceSegregation/Example2/PrincipleViolation.cs" Line="6" Column="3" />
+      <File FileName="InterfaceSegregation/Example2/WithPrinciple.cs" Line="6" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SOLIDPrinciples" expanded="True">
-            <Node name="Liskov" expanded="True">
-              <Node name="LiskovDesignPrincipalEx0" expanded="True" selected="True" />
-            </Node>
-          </Node>
+          <Node name="SOLIDPrinciples" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>dateTime</Value>
+          <Value>dateTime</Value>
+          <Value>dateTime</Value>
+          <Value>dateTime.ToString("CCYY-MM-DD")</Value>
+          <Value>dateTime.ToString("yyyy-MM-dd")</Value>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Liskov.LiskovDesignPrincipalEx0 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OpenClosedPrincipleEx0 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>InterfaceSegregation/InterfaceSegregation.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DependencyInversion PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

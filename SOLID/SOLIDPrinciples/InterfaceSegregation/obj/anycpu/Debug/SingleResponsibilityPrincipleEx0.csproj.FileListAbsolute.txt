@@ -1,0 +1,7 @@
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SingleResponsibility/bin/Debug/data.csv
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SingleResponsibility/bin/Debug/SingleResponsibility.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SingleResponsibility/bin/Debug/SingleResponsibility.pdb
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SingleResponsibility/obj/anycpu/Debug/SingleResponsibilityPrincipleEx0.csproj.CoreCompileInputs.cache
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SingleResponsibility/obj/anycpu/Debug/SingleResponsibility.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SingleResponsibility/obj/anycpu/Debug/SingleResponsibility.pdb
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SingleResponsibility/obj/anycpu/Debug/SingleResponsibilityPrincipleEx0.csprojAssemblyReference.cache

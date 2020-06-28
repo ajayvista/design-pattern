@@ -1,5 +1,0 @@
-/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SOLIDPrinciples/bin/Debug/LiskovDesignPrincipalEx0.exe
-/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SOLIDPrinciples/bin/Debug/LiskovDesignPrincipalEx0.pdb
-/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SOLIDPrinciples/obj/Debug/LiskovDesignPrincipalEx0.csproj.CoreCompileInputs.cache
-/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SOLIDPrinciples/obj/Debug/LiskovDesignPrincipalEx0.exe
-/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/SOLID/SOLIDPrinciples/SOLIDPrinciples/obj/Debug/LiskovDesignPrincipalEx0.pdb

@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovDesignPrincipalEx0", "SOLIDPrinciples\LiskovDesignPrincipalEx0.csproj", "{2A1C6093-6D67-404A-993B-A5C28228105A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovDesignPrincipleEx0", "LiskovPrincipal\LiskovDesignPrincipleEx0.csproj", "{2A1C6093-6D67-404A-993B-A5C28228105A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Liskov", "Liskov", "{F0A83E5A-E4E0-4863-9DDA-3BC11E9C60B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{2A0CDC84-2D1C-4ED4-9DFD-4BFF3682A81D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +15,11 @@ Global
 		{2A1C6093-6D67-404A-993B-A5C28228105A}.Debug|anycpu.Build.0 = Debug|anycpu
 		{2A1C6093-6D67-404A-993B-A5C28228105A}.Release|anycpu.ActiveCfg = Release|anycpu
 		{2A1C6093-6D67-404A-993B-A5C28228105A}.Release|anycpu.Build.0 = Release|anycpu
+		{2A0CDC84-2D1C-4ED4-9DFD-4BFF3682A81D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2A0CDC84-2D1C-4ED4-9DFD-4BFF3682A81D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2A0CDC84-2D1C-4ED4-9DFD-4BFF3682A81D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2A0CDC84-2D1C-4ED4-9DFD-4BFF3682A81D}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{2A1C6093-6D67-404A-993B-A5C28228105A} = {F0A83E5A-E4E0-4863-9DDA-3BC11E9C60B7}
 	EndGlobalSection
 EndGlobal
