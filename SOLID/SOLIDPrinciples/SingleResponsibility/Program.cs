@@ -9,14 +9,14 @@ namespace SingleResponsibility
 			var csvFileProcessor = new CsvFileProcessor();
 			var data = csvFileProcessor.Process("data.csv");
 
-			//violation of principal
-			// read, process and write all princiapl in single class
+			//violation of principle
+			// read, process and write all principle in single class
 			Console.WriteLine($"processed data - {string.Join("\n", data)}");
 			csvFileProcessor.StoreCsvDataAsTxt(data, "temp.txt");
 			Console.WriteLine($"processed data saved in temp.txt");
 
 
-			//with principal
+			//with principle
 
 			var addressProcessor = new AddressProcessor();
 

@@ -1,19 +1,25 @@
 ﻿<Properties StartupConfiguration="{2A0CDC84-2D1C-4ED4-9DFD-4BFF3682A81D}|Default">
   <MonoDevelop.Ide.ItemProperties.LiskovDesignPrincipleEx0 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingleResponsibility/Program.cs">
     <Files>
       <File FileName="DependencyInversion/Example1/PrincipleViolation.cs" Line="19" Column="40" />
       <File FileName="DependencyInversion/Example1/WithPrinciple.cs" Line="24" Column="10" />
       <File FileName="DependencyInversion/Example2/WithPrinciple.cs" Line="12" Column="3" />
-      <File FileName="DependencyInversion/Program.cs" Line="35" Column="1" />
+      <File FileName="DependencyInversion/Program.cs" Line="17" Column="14" />
       <File FileName="InterfaceSegregation/Example1/WithPrinciple.cs" Line="20" Column="9" />
       <File FileName="InterfaceSegregation/Example2/PrincipleViolation.cs" Line="6" Column="3" />
       <File FileName="InterfaceSegregation/Example2/WithPrinciple.cs" Line="6" Column="3" />
+      <File FileName="SingleResponsibility/WithSingleResponsibilityPrinciple.cs" Line="1" Column="1" />
+      <File FileName="SingleResponsibility/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SOLIDPrinciples" expanded="True" selected="True" />
+          <Node name="SOLIDPrinciples" expanded="True">
+            <Node name="SingleResponsibilityPrincipleEx0" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">

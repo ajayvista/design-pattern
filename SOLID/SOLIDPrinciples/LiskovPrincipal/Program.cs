@@ -124,7 +124,7 @@ namespace LiskovPrincipleOption2
 	}
 }
 
-namespace LiskovDesignPrincipalEx0
+namespace LiskovDesignprincipleEx0
 {
 
 	class MainClass
@@ -132,7 +132,7 @@ namespace LiskovDesignPrincipalEx0
 		public static void Main(string[] args)
 		{
 
-			//violating the principal
+			//violating the principle
 			//LSV states: Derived classes (here it is Square) should be substitutable for their base classes (or interfaces)
 			//Methods that use references to base classes (or interfaces) have to be able to use methods of the derived classes
 			//without knowing about it or knowing the details.
@@ -144,13 +144,13 @@ namespace LiskovDesignPrincipalEx0
 
 
 
-			//As per principal - option 1
+			//As per principle - option 1
 			//Base reference can be substibute for derived class object and access the properties as like derived class reference
 			LiskovPrincipleOption1.Rectangle rectangle1 = new LiskovPrincipleOption1.Square();
 			rectangle1.Width = 10;
 
 
-			//As per principal - option 2
+			//As per principle - option 2
 			//Base reference can be substibute for derived class object and access the properties as like derived class reference
 			LiskovPrincipleOption2.Shape shape = new LiskovPrincipleOption2.Rectangle(2,2);
 			shape.Width = 10;
