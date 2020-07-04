@@ -1,0 +1,9 @@
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/bin/Debug/FunctionalBuilder.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/bin/Debug/FunctionalBuilder.pdb
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/bin/Debug/Newtonsoft.Json.dll
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/bin/Debug/Newtonsoft.Json.xml
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/obj/anycpu/Debug/4.FunctionalBuilder.csprojAssemblyReference.cache
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/obj/anycpu/Debug/4.FunctionalBuilder.csproj.CoreCompileInputs.cache
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/obj/anycpu/Debug/4.FunctionalBuilder.csproj.CopyComplete
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/obj/anycpu/Debug/FunctionalBuilder.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/BuilderPatterns/FunctionalBuilder/obj/anycpu/Debug/FunctionalBuilder.pdb

@@ -10,15 +10,13 @@
       <File FileName="InterfaceSegregation/Example2/PrincipleViolation.cs" Line="6" Column="3" />
       <File FileName="InterfaceSegregation/Example2/WithPrinciple.cs" Line="6" Column="3" />
       <File FileName="SingleResponsibility/WithSingleResponsibilityPrinciple.cs" Line="1" Column="1" />
-      <File FileName="SingleResponsibility/Program.cs" Line="1" Column="1" />
+      <File FileName="SingleResponsibility/Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SOLIDPrinciples" expanded="True">
-            <Node name="SingleResponsibilityPrincipleEx0" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="SOLIDPrinciples" expanded="True" selected="True">
+            <Node name="SingleResponsibilityPrincipleEx0" expanded="True" />
           </Node>
         </State>
       </Pad>
