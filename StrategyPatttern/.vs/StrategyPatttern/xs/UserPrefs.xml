@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FB49733D-2DFA-4A0B-8F05-3C1DDD514DC2}|Default">
+  <MonoDevelop.Ide.ItemProperties.DynamicStrategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EqualityAndComparisionStrategy/Program.cs">
+    <Files>
+      <File FileName="DynamicStrategy/Program.cs" Line="92" Column="1" />
+      <File FileName="StaticStrategy/Program.cs" Line="96" Column="2" />
+      <File FileName="EqualityAndComparisionStrategy/Program.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StrategyPatttern" expanded="True">
+            <Node name="EqualityAndComparisionStrategy" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EqualityAndComparisionStrategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.StaticStrategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

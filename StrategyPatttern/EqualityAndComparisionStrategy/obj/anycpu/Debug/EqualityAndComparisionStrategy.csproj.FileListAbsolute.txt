@@ -1,0 +1,5 @@
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/EqualityAndComparisionStrategy/bin/Debug/EqualityAndComparisionStrategy.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/EqualityAndComparisionStrategy/bin/Debug/EqualityAndComparisionStrategy.pdb
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/EqualityAndComparisionStrategy/obj/anycpu/Debug/EqualityAndComparisionStrategy.csproj.CoreCompileInputs.cache
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/EqualityAndComparisionStrategy/obj/anycpu/Debug/EqualityAndComparisionStrategy.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/EqualityAndComparisionStrategy/obj/anycpu/Debug/EqualityAndComparisionStrategy.pdb

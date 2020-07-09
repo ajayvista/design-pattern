@@ -1,0 +1,6 @@
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/DynamicStrategy/bin/Debug/DynamicStrategy.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/DynamicStrategy/bin/Debug/DynamicStrategy.pdb
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/DynamicStrategy/obj/Debug/DynamicStrategy.csprojAssemblyReference.cache
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/DynamicStrategy/obj/Debug/DynamicStrategy.csproj.CoreCompileInputs.cache
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/DynamicStrategy/obj/Debug/DynamicStrategy.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/StrategyPatttern/DynamicStrategy/obj/Debug/DynamicStrategy.pdb

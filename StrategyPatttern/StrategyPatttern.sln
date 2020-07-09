@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicStrategy", "DynamicStrategy\DynamicStrategy.csproj", "{EAD23CD3-C8CE-4A36-A867-33486DC60958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticStrategy", "StaticStrategy\StaticStrategy.csproj", "{18692796-51A1-4CF3-84E6-6A6206BE5063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityAndComparisionStrategy", "EqualityAndComparisionStrategy\EqualityAndComparisionStrategy.csproj", "{FB49733D-2DFA-4A0B-8F05-3C1DDD514DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD23CD3-C8CE-4A36-A867-33486DC60958}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EAD23CD3-C8CE-4A36-A867-33486DC60958}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EAD23CD3-C8CE-4A36-A867-33486DC60958}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EAD23CD3-C8CE-4A36-A867-33486DC60958}.Release|anycpu.Build.0 = Release|anycpu
+		{18692796-51A1-4CF3-84E6-6A6206BE5063}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{18692796-51A1-4CF3-84E6-6A6206BE5063}.Debug|anycpu.Build.0 = Debug|anycpu
+		{18692796-51A1-4CF3-84E6-6A6206BE5063}.Release|anycpu.ActiveCfg = Release|anycpu
+		{18692796-51A1-4CF3-84E6-6A6206BE5063}.Release|anycpu.Build.0 = Release|anycpu
+		{FB49733D-2DFA-4A0B-8F05-3C1DDD514DC2}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FB49733D-2DFA-4A0B-8F05-3C1DDD514DC2}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FB49733D-2DFA-4A0B-8F05-3C1DDD514DC2}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FB49733D-2DFA-4A0B-8F05-3C1DDD514DC2}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
