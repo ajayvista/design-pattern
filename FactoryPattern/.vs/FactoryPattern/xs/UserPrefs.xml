@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{98CF1D8D-0319-4D70-8483-950829B70B1A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AsynchronousFactoryMethod/Program.cs">
+    <Files>
+      <File FileName="04AbstractFactory/Program.cs" Line="32" Column="32" />
+      <File FileName="AbstractFactory/Program.cs" Line="46" Column="39" />
+      <File FileName="FactoryMethod/Program.cs" Line="94" Column="6" />
+      <File FileName="AsynchronousFactoryMethod/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryPattern" expanded="True">
+            <Node name="02AsynchronousFactoryMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/FactoryPattern/04AbstractFactory/Program.cs" relfile="04AbstractFactory/Program.cs" line="86" column="1" />
+      <Breakpoint file="/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/FactoryPattern/04AbstractFactory/Program.cs" relfile="04AbstractFactory/Program.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

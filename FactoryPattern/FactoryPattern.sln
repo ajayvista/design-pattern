@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01FactoryMethod", "FactoryMethod\01FactoryMethod.csproj", "{5E39A17F-EE71-4FBD-ACD2-523597373064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02AsynchronousFactoryMethod", "AsynchronousFactoryMethod\02AsynchronousFactoryMethod.csproj", "{578D7462-4C66-4932-9C31-AC92208EB04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03AbstractFactory", "AbstractFactory\03AbstractFactory.csproj", "{2E0F3AB2-241D-4993-9502-4D0B24D80A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04AbstractFactory", "04AbstractFactory\04AbstractFactory.csproj", "{98CF1D8D-0319-4D70-8483-950829B70B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E39A17F-EE71-4FBD-ACD2-523597373064}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{5E39A17F-EE71-4FBD-ACD2-523597373064}.Debug|anycpu.Build.0 = Debug|anycpu
+		{5E39A17F-EE71-4FBD-ACD2-523597373064}.Release|anycpu.ActiveCfg = Release|anycpu
+		{5E39A17F-EE71-4FBD-ACD2-523597373064}.Release|anycpu.Build.0 = Release|anycpu
+		{578D7462-4C66-4932-9C31-AC92208EB04A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{578D7462-4C66-4932-9C31-AC92208EB04A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{578D7462-4C66-4932-9C31-AC92208EB04A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{578D7462-4C66-4932-9C31-AC92208EB04A}.Release|anycpu.Build.0 = Release|anycpu
+		{2E0F3AB2-241D-4993-9502-4D0B24D80A60}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2E0F3AB2-241D-4993-9502-4D0B24D80A60}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2E0F3AB2-241D-4993-9502-4D0B24D80A60}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2E0F3AB2-241D-4993-9502-4D0B24D80A60}.Release|anycpu.Build.0 = Release|anycpu
+		{98CF1D8D-0319-4D70-8483-950829B70B1A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{98CF1D8D-0319-4D70-8483-950829B70B1A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{98CF1D8D-0319-4D70-8483-950829B70B1A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{98CF1D8D-0319-4D70-8483-950829B70B1A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

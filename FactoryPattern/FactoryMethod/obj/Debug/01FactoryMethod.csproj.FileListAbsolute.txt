@@ -1,0 +1,5 @@
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/FactoryPattern/FactoryMethod/bin/Debug/FactoryMethod.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/FactoryPattern/FactoryMethod/bin/Debug/FactoryMethod.pdb
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/FactoryPattern/FactoryMethod/obj/Debug/01FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/FactoryPattern/FactoryMethod/obj/Debug/FactoryMethod.exe
+/Users/ajachoud/Ajay/Learning/Kafka/confluent-kafka-dotnet/DesignPatterns/DesignPattern/design-pattern/FactoryPattern/FactoryMethod/obj/Debug/FactoryMethod.pdb
