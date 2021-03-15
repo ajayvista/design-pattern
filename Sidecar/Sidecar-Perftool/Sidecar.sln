@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sidecar", "Sidecar.csproj", "{9B85B44B-15AE-4C47-9636-851E7C19A1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B85B44B-15AE-4C47-9636-851E7C19A1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B85B44B-15AE-4C47-9636-851E7C19A1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B85B44B-15AE-4C47-9636-851E7C19A1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B85B44B-15AE-4C47-9636-851E7C19A1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B13553EE-F72D-44E8-8C87-F9433FB2046D}
+	EndGlobalSection
+EndGlobal
